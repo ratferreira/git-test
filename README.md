@@ -1,2 +1,2 @@
 # git-test
-For testing my knowledge
+To test my knowledge
