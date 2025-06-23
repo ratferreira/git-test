@@ -1,2 +1,3 @@
 # git-test
-To test my knowledge
+Hello everyone,
+I really think that I understood how things works around here.
